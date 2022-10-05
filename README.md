@@ -9,12 +9,12 @@
 ## Above and beyond
 **Hosted images locally in images directory**
 
-## Documentation and Code Quality
+## Documentation and Code Readability
 **A helpful resource** - https://www.youtube.com/watch?v=zHZRFwWQt2w
 
 **Search term** - "style background images css"
 
-## Attributions
+### Attributions
  Image from [unsplash.com](https://unsplash.com/)
 - [Google Fonts](https://fonts.google.com/)
   - [Montserrat](https://fonts.google.com/specimen/Montserrat?query=montse#styles)
