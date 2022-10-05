@@ -5,7 +5,7 @@
 
 **Author:** Deoj Balcanao
 
-**GH Pages:**
+**GH Pages:** https://codedeoj.github.io/cpnt260-a4/
 ## Above and beyond
 **Hosted images locally in images directory**
 
